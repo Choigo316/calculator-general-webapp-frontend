@@ -1,5 +1,5 @@
-## 🖩 Simple Functional Calculator 
-# Website Development Project 
+# 🖩 Simple Functional Calculator 
+## Website Development Project 
 
 A responsive calculator supporting basic arithmetic, memory functions, scientific mode, and dark & light theme switching.
 
